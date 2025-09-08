@@ -36,7 +36,7 @@ make setup-all            # выполнить всё подряд
 
 #### Подготовка Docker окружения
 ```bash
-curl -fsSL https://raw.githubusercontent.com/oitarho/scripts/main/bootstrap-docker.sh | bash
+[curl -fsSL https://raw.githubusercontent.com/oitarho/scripts/main/bootstrap-docker.sh | bash](https://raw.githubusercontent.com/oitarho/scripts/refs/heads/main/scripts/bootstrap-docker.sh)
 ```
 
 #### Развёртывание Traefik + demo (whoami) с HTTPS
